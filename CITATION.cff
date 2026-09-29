@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper and this dataset."
+title: "Teaching Software Engineering with Generative AI: Supplementary Material"
+type: dataset
+authors:
+  - family-names: Alvarado
+    given-names: Martín
+    affiliation: "Instituto de Informática, Universidad Austral de Chile"
+  - family-names: Vergara
+    given-names: Claudia
+    affiliation: "Instituto de Informática, Universidad Austral de Chile"
+  - family-names: Maza
+    given-names: Martín
+    affiliation: "Instituto de Informática, Universidad Austral de Chile"
+  - family-names: Salazar-Fernandez
+    given-names: Juan
+    affiliation: "Instituto de Informática, Universidad Austral de Chile"
+    orcid: "https://orcid.org/0000-0001-7200-0614"
+  - family-names: Henríquez
+    given-names: Valeria
+    affiliation: "Instituto de Informática, Universidad Austral de Chile"
+    orcid: "https://orcid.org/0000-0002-9003-2254"
+license: CC-BY-4.0
+version: "1.0"
+date-released: "2026-09-30"
+keywords:
+  - generative AI
+  - software engineering education
+  - tertiary study
+  - SWEBOK
+  - didactic techniques
+  - PRISMA-trAIce

@@ -1,0 +1,12 @@
+# Never publish full texts, credentials or local caches
+*.pdf
+.env
+.env.*
+*.docx
+*.xlsm
+*.pbix
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
